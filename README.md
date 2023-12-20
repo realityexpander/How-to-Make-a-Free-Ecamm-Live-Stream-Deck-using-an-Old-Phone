@@ -19,12 +19,13 @@ I am not sponsored or affiliated with these companies in any way.
 - https://www.keyboardmaestro.com/
 
 #### My custom files (YOU FOUND EM!) (your mission is discover how to install these, its very easy):
-https://github.com/realityexpander/How-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone
+- https://github.com/realityexpander/How-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone
 
-### Keyboard Maestro Ecamm Live macros
+#### Keyboard Maestro Ecamm Live macros
 [Open Link and then](https://github.com/realityexpander/How-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone/blob/main/Ecamm%20Live%20Macros.kmmacros)
 ![image](https://github.com/realityexpander/How-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone/assets/5157474/101ba249-5ece-4d1f-a0e7-1e6d532524ac)
-Note: You will need to change the paths to your Ecamm Live and other applications. Very easy to do from the Touch Portal app.
+
+- Note: You will need to change the paths to your Ecamm Live and other applications. Very easy to do from the Touch Portal app.
 
 ![Android-button](https://github.com/realityexpander/How-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone/assets/5157474/3b7a2086-f8fe-478c-9a67-2b431a552c46)
 ![XCode-button](https://github.com/realityexpander/How-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone/assets/5157474/9deb63f5-b264-4c52-9659-eae077ef40c5)
