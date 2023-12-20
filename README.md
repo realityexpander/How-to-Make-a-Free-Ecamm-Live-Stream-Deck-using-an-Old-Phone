@@ -7,11 +7,12 @@
 I am not sponsored or affiliated with these companies in any way.
 
 #### Touch Portal 
-- $Free for basic icon set, US$13.99 to allow install of custom icon set)
+- $Free for basic icon set, US$13.99 to allow install of custom icon set
 - Have Android and iOS versions available.
 - https://www.touch-portal.com/
 
-#### Stream Deck Icon Set ($Free)
+#### Stream Deck Icon Set 
+- $Free
 - https://nerdordie.com/product/stream-deck-key-icons-clarity/
 
 #### Keyboard Maestro 
