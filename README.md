@@ -31,3 +31,6 @@ I am not sponsored or affiliated with these companies in any way.
 ![Android-button](https://github.com/realityexpander/How-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone/assets/5157474/3b7a2086-f8fe-478c-9a67-2b431a552c46)
 ![XCode-button](https://github.com/realityexpander/How-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone/assets/5157474/9deb63f5-b264-4c52-9659-eae077ef40c5)
 ![Ecamm-Live](https://github.com/realityexpander/How-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone/assets/5157474/c6fa934e-ca83-4967-b1bf-3a3d4284fdfc)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frealityexpander%2FHow-to-Make-a-Free-Ecamm-Live-Stream-Deck-using-an-Old-Phone&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
